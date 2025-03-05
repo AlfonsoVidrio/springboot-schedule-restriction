@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "config.calendar.open",
+      "type": "java.lang.Integer",
+      "description": "Specifies the opening hour for the service, in 24-hour format (e.g., 14 for 2:00 PM)."
+    },
+    {
+      "name": "config.calendar.close",
+      "type": "java.lang.Integer",
+      "description": "Specifies the closing hour for the service, in 24-hour format (e.g., 18 for 6:00 PM)."
+    }
+  ]
+}
